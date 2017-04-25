@@ -1,0 +1,14 @@
+@import url(~sanitize.css/sanitize.css);
+
+.drag-target {
+    background-color: #3C8D2F;
+    cursor: move;
+    width: 100px;
+    height: 100px;
+    border-radius: 4px;
+    position: absolute;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
